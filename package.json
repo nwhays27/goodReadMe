@@ -1,0 +1,19 @@
+{
+  "name": "goodreadme",
+  "version": "1.0.0",
+  "description": "This command-line application will create a readme file based on user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwhays27/goodReadMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwhays27/goodReadMe/issues"
+  },
+  "homepage": "https://github.com/nwhays27/goodReadMe#readme"
+}
