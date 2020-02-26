@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nwhays27/goodReadMe/issues"
   },
-  "homepage": "https://github.com/nwhays27/goodReadMe#readme"
+  "homepage": "https://github.com/nwhays27/goodReadMe#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4"
+  }
 }
